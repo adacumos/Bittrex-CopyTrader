@@ -1,4 +1,4 @@
-# Bittrex-Copytrader
+# Bittrex-CopyTrader
 
 A simple copy trader for Bittrex.
 
@@ -34,3 +34,5 @@ python3 copytrader.py
 # Todo
 
 Needs more testing.
+
+Have fun copy trading!
